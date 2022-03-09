@@ -1,0 +1,30 @@
+iframe{
+    width:95% !important;
+    height: 95%;
+}
+body{
+    background-color: wheat;
+    border: turquoise 25px groove; 
+}
+.hone{
+    background-color: sienna;
+    width:90%;
+    border-radius: 5px;
+    border: 5px solid
+}
+.backer{
+    background-color: slateblue !important;
+    border: 0px black solid;
+    height:30px;
+    width:100px;
+    margin-top:5px ;
+    border-radius: 5px;
+}
+#ed{
+    font-size:17.5px;
+    font-weight:bolder !important;    
+}
+.logo{
+    height:200px !important;
+    width:325px !important;
+}

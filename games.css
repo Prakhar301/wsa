@@ -1,0 +1,90 @@
+body{
+    background-image:url("https://res.cloudinary.com/ambp/image/upload/v1646717717/background/games.jpg");
+    background-size: contain;
+    border-style: groove;
+    border-width: 5mm;
+    border-color:firebrick;
+}
+.hone{
+    font-size: 30px;
+    background-image: url("heading.jpg");
+    border:indigo 10px inset;
+}
+.backer{
+    background-color: slateblue !important;
+    border: 0px black solid;
+    height:30px;
+    width:125px;
+    border-radius: 5px;
+}
+.logo{
+    height:200px !important;
+    width:325px !important;
+
+}
+label{
+    background-color: tomato;
+    color: white;
+    width:60%;
+    border-radius: 5px;
+}
+.product_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    height:6.5%;
+    display:inline-block; 
+}
+.product_head i{
+    float: right !important;
+}   
+.product_head p,span{
+    float: left;
+}
+.product_head p{
+    margin-left: 15px;
+}
+.errog{
+    width: 40px;
+    height:30px !important;
+}
+a{
+    color:rgb(15, 15, 120);
+    background-color: rgb(90,235,120);
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none !important;
+    font-weight:700 ;
+    font-family:'Cambria'  !important;
+}
+p{
+    margin-left:5px;
+}
+.errog{
+    width: 30px;
+    height:30px !important;
+}
+.pro:hover{
+    background-color: green !important;
+}
+a:hover{
+    color: rgb(0,0,10) !important;
+    font-weight:800;
+    font-family: cursive !important;
+}
+.pro{
+	background-color:palegreen !important;
+    border-radius: 20px;
+    width:310px;
+    height: 240px;
+    margin:15px !important;
+}
+img{
+    width:215px;
+    height: 175px !important;
+}
+.bn{
+    background-color: rgb(0,0,0,0);
+}

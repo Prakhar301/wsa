@@ -1,0 +1,55 @@
+img{
+    width: 175px;
+    height: 175px;
+}
+.pro{
+	background-color:palegreen !important;
+    border-radius: 20px;
+    width:310px;
+    height:195px !important;
+    margin:15px !important;
+}
+.pro:hover{
+    background-color: green !important;
+}
+a{
+    color:rgb(15, 15, 120);
+    background-color: rgb(90,235,120);
+    border-radius: 10px;
+    font-weight:700 ;
+    font-family:'Cambria'  !important;
+    text-decoration: none !important;
+    padding: 10px;
+}
+a:hover{
+    color: rgb(0,0,10) !important;
+    font-weight:800;
+    font-family: cursive !important;
+}
+body{
+    background-image: url("https://res.cloudinary.com/ambp/image/upload/v1646717718/background/origami_cwerds.jpg");
+    background-size: cover;
+}
+.backer{
+    background-color: slateblue !important;
+    border: 0px black solid;
+    height:30px;
+    width:125px;
+    margin-top:5px ;
+    border-radius: 5px;
+    margin: 15px !important;
+}
+.gdf{
+    background-color:rgb(0,0,0,0);
+}
+.logo{
+    height:200px !important;
+    width:325px !important;
+
+}
+.hone{
+    font-size: 100px;
+    border:blue 5px outset;
+    height: 235px;
+    background-image: url("heading.jpg");
+}

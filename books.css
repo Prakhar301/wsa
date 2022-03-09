@@ -1,0 +1,80 @@
+body{
+    border-style: groove;
+    border-width: 5mm;
+    border-color:pink;
+    background-image: url("https://res.cloudinary.com/ambp/image/upload/v1646717718/background/buhker.jpg");
+    background-size: contain;
+
+}
+.hone{
+    font-size: 100px;
+    border:green 5px outset;
+    height: 235px;
+    background-image: url("heading.jpg");
+}
+.backer{
+    background-color: slateblue !important;
+    border: 0px black solid;
+    height:30px;
+    width:125px;
+    margin-top:5px ;
+    border-radius: 5px;
+}
+.logo{
+    height:200px !important;
+    width:325px !important;
+
+}
+label{
+    background-color: tomato;
+    color: white;
+    width:60%;
+    border-radius: 5px;
+}
+.fg{
+    color:blue;
+}
+.small{
+    color: green !important;
+    font-size: 65px !important;
+}
+.pro{
+	background-color:palegreen !important;
+    border-radius: 20px;
+    width:348px;
+    height:425px !important;
+    margin:15px !important;
+}
+.pro:hover{
+    background-color: green !important;
+}
+.bgdf{
+  color:rgb(15, 15, 120);
+    background-color: rgb(90,235,120);
+    font-weight:700 ;
+    font-family:'Cambria'  !important;
+    text-decoration: none !important;
+    padding: 10px;
+    border-radius: 10px;
+}
+a:hover{
+    color: rgb(0,0,10) !important;
+    font-weight:800;
+    font-family: cursive !important;
+}
+li{
+    background-color:rgb(0,230,150);
+    border-radius: 15px;
+    font-family:monospace
+}
+li:hover{
+    width:250px !important;
+    height: 30px !important;
+    font-family:Georgia;
+}
+img{
+    width:275px !important;
+    height: 350px !important;
+    margin: 11px;
+    border-radius: 10px;
+}

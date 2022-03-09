@@ -1,0 +1,109 @@
+body{
+    background-image: url("https://res.cloudinary.com/ambp/image/upload/v1646717718/background/newspaper.jpg");
+    border: 15px ridge green;
+}
+.hone{
+    font-size: 30px;
+    background-image:url("heading.jpg");
+    border:violet 6px inset;
+    height: 235px; 
+}
+.logo{
+    height:200px !important;
+    width:325px !important;
+
+}
+.backer{
+    background-color: slateblue !important;
+    border: 0px black solid;
+    height:30px;
+    width:125px;
+    border-radius: 5px;
+}
+.errog{
+    width: 30px;
+    height:30px !important;
+}
+.product_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display:inline-block; 
+}
+.product_head i{
+    float: right !important;
+}   
+.product_head p,span{
+    float: left;
+}
+p{
+    margin-left:5px;
+}
+label{
+    background-color: tomato;
+    color: white;
+    width:60%;
+    border-radius: 5px;
+}
+.dewq{
+    margin: 50px !important;
+}
+.saa{
+    padding: 7px !important;
+    font-weight: 600 !important;
+    font-size: medium !important        ;
+}
+.pro{
+	background-color:palegreen !important;
+    border-radius: 20px;
+    width:310px;
+    height: 250px;
+    margin:15px !important;
+}
+.prol{
+    background-color:palegreen !important;
+    border-radius: 20px;
+    width:375px;
+    height: 230px;
+    margin:15px !important;
+}
+img{
+    width:250px;
+    height: 200px !important;
+}
+a{
+    color:rgb(15, 15, 120);
+    background-color: rgb(90,235,120);
+    border-radius: 10px;
+    text-decoration: none !important;
+    font-weight:700 ;
+    font-family:'Cambria'  !important;
+    padding: 10px;
+}
+li{
+    background-color:rgb(0,230,150);
+    border-radius: 15px;
+    font-family:monospace
+}
+li:hover{
+    width:250px !important;
+    height: 30px !important;
+    font-family:Georgia;
+}
+.pro,.prol:hover{
+    background-color: green !important;
+}
+a:hover{
+    color: rgb(0,0,10) !important;
+    font-weight:800;
+    font-family: cursive !important;
+}
+.abc{
+    background-color: rgb(0,0,0,0);
+}   
+.magazine{
+    width:225px;
+    height: 325px;
+}
